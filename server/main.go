@@ -7,7 +7,7 @@ import (
   "sync"
   "time"
 
-  chatv1 "github.com/sr27744/grpc-messenger/server/gen/chat/v1"
+  chatv1 "github.com/sr27744/grpc-messenger/server/chat/v1"
   "google.golang.org/grpc"
 )
 
